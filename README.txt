@@ -17,6 +17,8 @@ AUTOMATICALLY DELETE MYSQL BACKUPS OLDER THAN N DAYS (SET TO HOWEVER MANY DAYS Y
 FTP YOUR BACKUP ZIP TO A REMOTE LOCATION
 HIGHLY SUGGEST YOU ALSO SETUP A SCHEDULED TASK TO BACKUP YOUR MYSQL DIRECTORY AND YOUR NEW BACKUP FOLDER TO AN OFF SITE LOCATION
 
+Extract the zip and then place the 'MySQLBackups' folder on C:\.  It contains everything you need.  Continue setup below.
+
 SETUP INSTRUCTIONS:
 1. Right click and edit mysqlbackup.bat file in notepad
 2. Set the backupdate format, whatever your preference, mine is yyyy-mm-dd-m-s ( I have not tested other variants)
