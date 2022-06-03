@@ -1,4 +1,4 @@
-# MySQL_Auto_Backup_Windows
+# MySQL_Auto_Backup_Windows 
 Auto MySQL Backup For Windows Servers By Matt Moeller  v.1.5 - https://www.redolive.com/automated-mysql-backup-for-windows/
 
 PLATFORMS TESTED:
